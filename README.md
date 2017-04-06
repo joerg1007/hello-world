@@ -1,2 +1,3 @@
 # hello-world
 Mal wieder mehr Technik &amp; Entwicklung spüren....
+Als Group Lead für das eCommerce Backend von Vodafone bin ich auf der Suche nach neuen Kollegen, die sich hier deutlich sicherer bewegen als ich im Moment. ;)
